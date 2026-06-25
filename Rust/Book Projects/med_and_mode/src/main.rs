@@ -30,14 +30,25 @@ fn main() {
     };
 
     let mut max_frequency = 0;
-    let mut max_value = -128;
+    let mut mode_map = HashMap::new();
 
     for (key, value) in frequency_map{
         if value > max_frequency {
+            mode_map.clear();
+            mode_map.insert(key, value);
             max_frequency = value;
-            max_value = *key;
+        }
+        else if value == max_frequency {
+            mode_map.insert(key, value);
         }
     }
 
-    println!("The Median of these integers is {med_value} and the Mode is {max_value}, which occurs {max_frequency} times.");
+    let mut mode_str = String::new();
+
+    for (key, _) in mode_map{
+        mode_str.push_str(key.to_string().as_str());
+        mode_str.push_str(", ");
+    }
+
+    println!("The Median of these integers is {med_value} and the Mode(s) is(are) {mode_str}which occur(s) {max_frequency} times.");
 }
