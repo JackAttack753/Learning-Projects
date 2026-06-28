@@ -1,0 +1,1 @@
+C:\Users\Jaa41\OneDrive\Documents\GitHub\Learning\ Projects\Rust\Book\ Projects\pig_latin\target\debug\pig_latin.exe: C:\Users\Jaa41\OneDrive\Documents\GitHub\Learning\ Projects\Rust\Book\ Projects\pig_latin\src\main.rs
