@@ -1,0 +1,12 @@
+C:\Users\Jaa41\OneDrive\Documents\GitHub\Learning Projects\Rust\Book Projects\hello-async\target\debug\deps\mac-ff239b927cb500dc.d: C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\lib.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\test.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\mem.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\format.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\syntax_ext.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\matches.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\inspect.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\cfg.rs
+
+C:\Users\Jaa41\OneDrive\Documents\GitHub\Learning Projects\Rust\Book Projects\hello-async\target\debug\deps\libmac-ff239b927cb500dc.rmeta: C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\lib.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\test.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\mem.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\format.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\syntax_ext.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\matches.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\inspect.rs C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\cfg.rs
+
+C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\lib.rs:
+C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\test.rs:
+C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\mem.rs:
+C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\format.rs:
+C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\syntax_ext.rs:
+C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\matches.rs:
+C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\inspect.rs:
+C:\Users\Jaa41\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\cfg.rs:
